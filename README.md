@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Gaurav Kumar(Tech enthusiast)</h1>
 <h3 align="center">An elctrical engineer who like to eletrify the the Tech field</h3>
